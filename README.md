@@ -1,24 +1,14 @@
-# README
+# DevCamp Udemy Course Project Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Topics convered in this course in order to complete this Ruby on Rails App project:
 
-Things you may want to cover:
+* Ruby version management
 
-* Ruby version
+* Git version control
 
-* System dependencies
+* Start new rails project with alternative database (postgresql)
 
-* Configuration
+* Rails generators (scaffold, controller, model)
 
-* Database creation
+* MVC (Models, Views, Controllers)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
