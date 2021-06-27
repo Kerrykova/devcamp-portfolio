@@ -8,7 +8,7 @@ Topics convered in this course in order to complete this Ruby on Rails App proje
 
 * Start new rails project with alternative database (postgresql)
 
-* Rails generators (scaffold, controller, model)
+* Rails generators (scaffold, controller, model, resource)
 
 * MVC (Models, Views, Controllers)
 
