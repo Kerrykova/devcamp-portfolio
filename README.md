@@ -12,3 +12,9 @@ Topics convered in this course in order to complete this Ruby on Rails App proje
 
 * MVC (Models, Views, Controllers)
 
+Versions:
+
+* Rails 6.1.3.2
+
+* ruby-3.0.1
+
